@@ -41,3 +41,7 @@ h1 {
   font-family: "Montserrat";
   font-weight: var(--title-weight);
 }
+
+body{
+  font-family: "Montserrat";
+}
